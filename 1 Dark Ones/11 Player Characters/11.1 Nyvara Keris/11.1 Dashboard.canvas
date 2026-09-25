@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"77dab4bd992b82b0","type":"file","file":"D Dungeons & Dragons/D02 Dark Ones/D02-1-Party/Nyvara Keris.md","x":-620,"y":-160,"width":295,"height":460},
+		{"id":"023c4c9000618784","type":"file","file":"D Dungeons & Dragons/D02 Dark Ones/D02-1-Party/Nyvara Keris/Features & Abilities/1 Stats.md","x":-320,"y":-160,"width":700,"height":800},
+		{"id":"21fc3f74880d3b44","type":"file","file":"D Dungeons & Dragons/D02 Dark Ones/D02-1-Party/Nyvara Keris/Inventory.md","x":-620,"y":300,"width":295,"height":657},
+		{"id":"9546cb98ed89e822","type":"file","file":"D Dungeons & Dragons/D02 Dark Ones/D02-1-Party/Nyvara Keris/Features & Abilities/2 Class.md","x":380,"y":-160,"width":320,"height":420},
+		{"id":"0952848d6615c6c4","type":"file","file":"D Dungeons & Dragons/D02 Dark Ones/D02-1-Party/Nyvara Keris/Features & Abilities/3 Other.md","x":380,"y":260,"width":320,"height":380},
+		{"id":"5e9f6a3e8afc7970","type":"file","file":"D Dungeons & Dragons/D02 Dark Ones/D02-1-Party/Nyvara Keris/Features & Abilities/Spellcasting/Spell Slots.md","x":260,"y":640,"width":440,"height":320},
+		{"id":"28a13e03e67f84e6","type":"file","file":"D Dungeons & Dragons/D02 Dark Ones/D02-1-Party/Nyvara Keris/Features & Abilities/Spellcasting/Spells.md","x":-320,"y":637,"width":580,"height":320}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

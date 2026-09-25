@@ -1,0 +1,17 @@
+{
+  "cssTheme": "FastPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "awesome-obsidian - nicer checkboxes",
+    "Custom Callout",
+    "footnotes tooltip on hover",
+    "hide icon after weblink",
+    "MCL Multi Column",
+    "rainbow folder title",
+    "SIRvb - Callouts",
+    "SIRvb - Dataview Cards",
+    "supercharged-links-gen",
+    "vreithinger - popover bigger"
+  ],
+  "accentColor": "#754ce6"
+}

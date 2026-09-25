@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "cc24b22a8a88bb8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "517c6b8d8b79a762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2becd29d39d83818",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b5a09d67364beeba",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2844d830228f8f47",
+    "type": "split",
+    "children": [
+      {
+        "id": "75732dc04eb93bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32670386d7294d87",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "9567e1731952b154",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1cda0252771df641",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:pinned",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1708fedd7a4b042c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3b31d49d21923d48",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5fd260d8b17fc83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4dddf2f9216cf80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9581210b0135586",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3844224e8b898a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c214b897e58a76f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.md"
+              }
+            }
+          },
+          {
+            "id": "1560fa4b2dfe081a",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "e19729c0d1fd528a",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e81d5261b04a1f4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b5dd4a7e65c6d4a",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "462a4cc25807dbe1",
+            "type": "leaf",
+            "state": {
+              "type": "link-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e41d381499fda3b",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "omnisearch:Omnisearch": false,
+      "zk-prefixer:Create new unique note": false,
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "juggl:Juggl global graph": false,
+      "graph:Open graph view": false,
+      "chronology:Open Chronology": false,
+      "link-tree:Link Tree": false,
+      "obsidian-tts:Text to Speech": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "templater-obsidian:Templater": false,
+      "templates:Insert template": false,
+      "easy-toggle-sidebars:autoHide switcher": false,
+      "workspaces:Manage workspace layouts": false,
+      "workspaces-plus:Manage workspaces": false
+    }
+  },
+  "active": "2becd29d39d83818",
+  "lastOpenFiles": [
+    "Inbox/From my iPad/From my iPad.md",
+    "Homepage.md",
+    "Meta/Unique Notes/2023-10-26, 8-38 pm - Build Ideas 1 (Transcribed & edited).md",
+    "Content/2 Media (Observing)/23 Games/23.02 Stardew Valley Modlist.md",
+    "Content/2 Media (Observing)/23 Games/23.02 Kingdom Two Crowns (Save Slot 1).md",
+    "Content/2 Media (Observing)/23 Games/23.01 Minecraft Longplay.md",
+    "Content/3 Personal/31 Journals/31 Journals.md",
+    "Meta/Unique Notes/2023-10-26, 11-59 pm -.md",
+    "Untitled.md",
+    "Meta/Templates/Generic.md",
+    "Meta/Templates/Unique Note.md",
+    "Content/2 Media (Observing)/23 Games/23 Games.md",
+    "Content/2 Media (Observing)/24 Images/24 Images.md",
+    "Content/2 Media (Observing)/2 Media (Observing).md",
+    "Content/1 Media (Creating)/1 Media (Creating).md",
+    "Meta/Attachments/Attachments.md",
+    "Meta/Periodic Notes/Periodic Notes.md",
+    "Meta/Templates/Templates.md",
+    "Meta/Unique Notes/Unique Notes.md",
+    "Meta/Meta.md",
+    "Meta/Unique Notes/2023-10-26, 10-20 pm -.md",
+    "Meta/Unique Notes/2023-09-18 10-33 am.md",
+    "Content/2 Media (Observing)/21 Audio/21 Audio.md",
+    "Meta/Unique Notes/2023-10-26, 5-29 pm.md",
+    "Content/Content.md",
+    "Inbox/Inbox.md",
+    "Meta/Periodic Notes/1. Daily/1. Daily"
+  ]
+}
