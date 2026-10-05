@@ -9,6 +9,33 @@
       },
       "deathSaveSuccesses": 0,
       "deathSaveFailures": 0
+    },
+    "class-feature": {
+      "value": 0
+    },
+    "my_character_spells_1": {
+      "value": 0
+    },
+    "my_character_spells_2": {
+      "value": 0
+    },
+    "my_character_spells_3": {
+      "value": 0
+    },
+    "my_character_spells_4": {
+      "value": 0
+    },
+    "my_character_spells_5": {
+      "value": 0
+    },
+    "my_character_spells_6": {
+      "value": 0
+    },
+    "my_character_spells_7": {
+      "value": 0
+    },
+    "my_character_spells_8": {
+      "value": 0
     }
   }
 }
