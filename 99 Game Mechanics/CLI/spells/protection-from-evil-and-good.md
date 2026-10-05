@@ -1,4 +1,7 @@
 ---
+title: protection-from-evil-and-good
+date created: Monday, 5th October 2026, 9:57:16 pm
+date modified: Monday, 5th October 2026, 10:39:18 pm
 obsidianUIMode: preview
 cssclasses:
 - json5e-spell
@@ -37,7 +40,8 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- "Protection from Evil and Good"
+  - Protection from Evil and Good
+  - "Protection from Evil and Good"
 ---
 # Protection from Evil and Good
 *1st-level, Abjuration*  
