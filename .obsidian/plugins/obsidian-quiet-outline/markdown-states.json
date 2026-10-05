@@ -4488,15 +4488,18 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 7
+        "line": 18,
+        "ch": 33
       },
       "to": {
-        "line": 13,
-        "ch": 7
+        "line": 18,
+        "ch": 33
       }
     },
-    "expandedKeys": []
+    "expandedKeys": [
+      "item-4-1",
+      "item-1-0"
+    ]
   },
   "99 Game Mechanics/CLI/classes/warlock.md": {
     "scroll": 0,
