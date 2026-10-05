@@ -1,0 +1,14 @@
+{
+  "state": {
+    "my_character_hp": {
+      "current": 59,
+      "temporary": 0,
+      "hitdiceUsed": {
+        "d6": 0,
+        "d8": 0
+      },
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    }
+  }
+}
