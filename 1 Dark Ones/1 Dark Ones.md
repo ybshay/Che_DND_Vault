@@ -1,11 +1,11 @@
 ---
-aliases: [D Dungeons & Dragons]
+aliases: [Dark Ones, D Dungeons & Dragons]
 title: 1 Dark Ones
 tags:
 date created: Friday, 25th September 2026, 3:58:46 pm
-date modified: Monday, 5th October 2026, 9:8:12 pm
+date modified: Monday, 5th October 2026, 9:10:05 pm
 ---
-# D Dungeons & Dragons
+# Dark Ones
 
 ---
 #### Important Notes
