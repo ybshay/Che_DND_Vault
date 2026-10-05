@@ -3,7 +3,7 @@ aliases: [Dungeons & Dragons]
 title: Welcome
 tags:
 date created: Friday, 25th September 2026, 3:44:34 pm
-date modified: Friday, 25th September 2026, 4:46:17 pm
+date modified: Monday, 5th October 2026, 9:8:09 pm
 ---
 # Dungeons & Dragons
 
@@ -18,11 +18,11 @@ AND #important
 #### [[11 Dark Ones|Dark Ones]]
 [[11.30 Session Notes|Session Notes]]
 ##### Characters
-###### [[11.11 Nyvara Keris|Nyvara Keris]] / [[11.11 Dashboard.canvas|Dashboard]]
+###### [[11.1 Nyvara Keris|Nyvara Keris]] / [[11.1 Dashboard.canvas|Dashboard]]
 
-|                                |                          |                                                                    |                                                                                                                     |                                                                                                          |                                 |
-| ------------------------------ | ------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [[11.11 Inventory\|Inventory]] | [[11.11 Spells\|Spells]] | [[11.11 Class\|Class Features]]<br>[[11.11 Other\|Other Features]] | [[11.11_Source_Class1.pdf\|SRC: Class (Sorcerer)]] <br>[[11.11_Source_Class1_Subclass.pdf\|SRC: Subclass (Shadow)]] | [[11.11_Source_Class2.pdf\|SRC: Class (Warlock)]] <br>[[11.11_Source_Class2.pdf\|SRC: Subclass (Fiend)]] | [[11.11_Source_Race.pdf\|Race]] |
+|                               |                         |                                                                  |                                                                                                                     |                                                                                                          |                                 |
+| ----------------------------- | ----------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [[11.1 Inventory\|Inventory]] | [[11.1 Spells\|Spells]] | [[11.1 Class\|Class Features]]<br>[[11.1 Other\|Other Features]] | [[11.11_Source_Class1.pdf\|SRC: Class (Sorcerer)]] <br>[[11.11_Source_Class1_Subclass.pdf\|SRC: Subclass (Shadow)]] | [[11.11_Source_Class2.pdf\|SRC: Class (Warlock)]] <br>[[11.11_Source_Class2.pdf\|SRC: Subclass (Fiend)]] | [[11.11_Source_Race.pdf\|Race]] |
 > [!example]- Other Notes
 > ```dataview
 TABLE WITHOUT ID 

@@ -4375,11 +4375,11 @@
     "cursor": {
       "from": {
         "line": 24,
-        "ch": 32
+        "ch": 352
       },
       "to": {
         "line": 24,
-        "ch": 32
+        "ch": 383
       }
     },
     "expandedKeys": []
@@ -4436,6 +4436,20 @@
       "to": {
         "line": 15,
         "ch": 41
+      }
+    },
+    "expandedKeys": []
+  },
+  "1 Dark Ones/1 Dark Ones.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 16
+      },
+      "to": {
+        "line": 18,
+        "ch": 16
       }
     },
     "expandedKeys": []
