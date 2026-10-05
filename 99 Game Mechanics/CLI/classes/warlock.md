@@ -1,4 +1,7 @@
 ---
+title: warlock
+date created: Monday, 5th October 2026, 9:57:11 pm
+date modified: Monday, 5th October 2026, 10:25:43 pm
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
@@ -6,7 +9,8 @@ tags:
 - ttrpg-cli/class/warlock
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- "Warlock"
+  - Warlock
+  - "Warlock"
 ---
 # Warlock
 *Source: Player's Handbook p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

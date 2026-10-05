@@ -15,7 +15,7 @@ link(file.link, default(file.aliases[0], file.name))
 FROM [[#]]
 AND #important
 ```
-##### [[11.30 Session Notes|\[\[1 Dark Ones|Dark Ones\]\] Session Notes]]
+##### [13 Session Notes](13%20Session%20Notes.md)
 ##### Characters
 ###### [[11.1 Nyvara Keris|Nyvara Keris]] / [[11.1 Dashboard.canvas|Dashboard]]
 
