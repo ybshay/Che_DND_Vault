@@ -8,7 +8,7 @@ date modified: Monday, 5th October 2026, 10:25:22 pm
 # Dungeons & Dragons
 
 ---
-```ad-example
+```ad-tip
 title: Important Notes
 collapse: closed
 ```dataview
