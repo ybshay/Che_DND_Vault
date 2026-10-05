@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/compendium/src/5e/vrgr
+aliases:
+- "Alien Artifacts; Aberrant Evidence"
+---
+# Alien Artifacts; Aberrant Evidence
+*Source: Van Richten's Guide to Ravenloft p. 75* 
+
+**Aberrant Evidence**
+
+| dice: d6 | Evidence |
+|----------|----------|
+| 1 | A needle-like device buried under someone's skin |
+| 2 | An inexplicable crater or circle of scorched crops |
+| 3 | A stable full of exploded livestock |
+| 4 | An [antimatter rifle](99%20Game%20Mechanics/CLI/items/antimatter-rifle.md) (detailed in the "Dungeon Master's Guide") |
+| 5 | A missing person or otherworldly being transformed into a [brain in a jar](99%20Game%20Mechanics/CLI/bestiary/undead/brain-in-a-jar-vrgr.md) |
+| 6 | The damaged corpse of a [vampiric mind flayer](99%20Game%20Mechanics/CLI/bestiary/undead/vampiric-mind-flayer-vrgr.md) |
+^aberrant-evidence

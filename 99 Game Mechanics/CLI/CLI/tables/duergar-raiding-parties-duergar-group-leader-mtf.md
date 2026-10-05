@@ -1,0 +1,20 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/compendium/src/5e/mtf
+aliases:
+- "Duergar Raiding Parties; Duergar Group Leader"
+---
+# Duergar Raiding Parties; Duergar Group Leader
+*Source: Mordenkainen's Tome of Foes p. 83* 
+
+**Duergar Group Leader**
+
+| dice: d6 | Leader |
+|----------|--------|
+| 1 | [Duergar Stone Guard](99%20Game%20Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm.md) |
+| 2-4 | [Duergar Warlord](99%20Game%20Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm.md) |
+| 5-6 | [Duergar Despot](99%20Game%20Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm.md) |
+^duergar-group-leader

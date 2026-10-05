@@ -1,0 +1,43 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-spell
+tags:
+- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/class/warlock
+- ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/aberrant-dragonmark
+- ttrpg-cli/spell/feat/initiate-of-high-sorcery/solinari
+- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+- ttrpg-cli/spell/level/cantrip
+- ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subrace/elf-high
+classes:
+- Bard (Magical Secrets)
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Warlock
+- Wizard
+aliases:
+- "Blade Ward"
+---
+# Blade Ward
+*cantrip, Abjuration*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 round
+
+You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+
+**Classes**: [Bard (Magical Secrets)](99%20Game%20Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](99%20Game%20Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](99%20Game%20Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](99%20Game%20Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](99%20Game%20Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](99%20Game%20Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+*Source: Player's Handbook p. 218*

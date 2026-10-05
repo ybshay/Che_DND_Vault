@@ -1,0 +1,64 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/compendium/src/5e/dsotdq
+aliases:
+- "Appendix A: Gear and Magic Items"
+---
+# Appendix A: Gear and Magic Items
+*Source: Dragonlance: Shadow of the Dragon Queen, p. 188* 
+
+This appendix describes new equipment, magic items, and tinker gnome siege weapons that appear in the adventure.
+
+## Adventuring Gear
+
+This section describes items and weapons that have special rules or require further explanation. The following items are presented in alphabetical order.
+
+- [Fargab](99%20Game%20Mechanics/CLI/items/fargab-dsotdq.md)  
+- [Hoopak](99%20Game%20Mechanics/CLI/items/hoopak-dsotdq.md)  
+- [Narycrash](99%20Game%20Mechanics/CLI/items/narycrash-dsotdq.md)  
+
+> [!embed-item]- Fargab
+> ![Fargab](99%20Game%20Mechanics/CLI/items/fargab-dsotdq.md)
+
+> [!embed-item]- Hoopak
+> ![Hoopak](99%20Game%20Mechanics/CLI/items/hoopak-dsotdq.md)
+
+> [!embed-item]- Narycrash
+> ![Narycrash](99%20Game%20Mechanics/CLI/items/narycrash-dsotdq.md)
+
+## Gnome Siege Weapons
+
+This section presents two siege weapons designed by tinker gnomes.
+
+- [Boilerdrak](99%20Game%20Mechanics/CLI/objects/boilerdrak-dsotdq.md)  
+- [Gnomeflinger](99%20Game%20Mechanics/CLI/objects/gnomeflinger-dsotdq.md)  
+
+> [!embed-object]- Boilerdrak
+> ![Boilerdrak](99%20Game%20Mechanics/CLI/objects/boilerdrak-dsotdq.md)
+
+> [!embed-object]- Gnomeflinger
+> ![Gnomeflinger](99%20Game%20Mechanics/CLI/objects/gnomeflinger-dsotdq.md)
+
+## Magic Items
+
+The following items are presented in alphabetical order.
+
+- [Dragonlance](99%20Game%20Mechanics/CLI/items/dragonlance-ftd.md)  
+- [Flying Citadel Helm](99%20Game%20Mechanics/CLI/items/flying-citadel-helm-dsotdq.md)  
+- [Kagonesti Forest Shroud](99%20Game%20Mechanics/CLI/items/kagonesti-forest-shroud-dsotdq.md)  
+- [Mirror of Reflected Pasts](99%20Game%20Mechanics/CLI/items/mirror-of-reflected-pasts-dsotdq.md)  
+
+> [!embed-item]- Dragonlance
+> ![Dragonlance](99%20Game%20Mechanics/CLI/items/dragonlance-ftd.md)
+
+> [!embed-item]- Flying Citadel Helm
+> ![Flying Citadel Helm](99%20Game%20Mechanics/CLI/items/flying-citadel-helm-dsotdq.md)
+
+> [!embed-item]- Kagonesti Forest Shroud
+> ![Kagonesti Forest Shroud](99%20Game%20Mechanics/CLI/items/kagonesti-forest-shroud-dsotdq.md)
+
+> [!embed-item]- Mirror of Reflected Pasts
+> ![Mirror of Reflected Pasts](99%20Game%20Mechanics/CLI/items/mirror-of-reflected-pasts-dsotdq.md)

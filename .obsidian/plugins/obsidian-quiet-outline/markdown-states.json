@@ -4467,5 +4467,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "99 Game Mechanics/CLI.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 115
+      },
+      "to": {
+        "line": 4,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }

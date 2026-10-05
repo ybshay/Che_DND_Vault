@@ -1,0 +1,54 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- ttrpg-cli/compendium/src/5e/tce
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Aberrant Spirit (Star Spawn)"
+---
+# [Aberrant Spirit (Star Spawn)](99%20Game%20Mechanics/CLI/bestiary/aberration/aberrant-spirit-star-spawn-tce.md)
+*Source: Tasha's Cauldron of Everything p. 109*  
+
+```statblock
+"name": "Aberrant Spirit (Star Spawn) (TCE)"
+"size": "Medium"
+"type": "aberration"
+"alignment": "Unaligned"
+"ac_class": "11 + the level of the spell (natural armor)"
+"hp": "40 + 10 for each spell level above 4th"
+"modifier": !!int "0"
+"stats":
+  - !!int "16"
+  - !!int "10"
+  - !!int "15"
+  - !!int "16"
+  - !!int "10"
+  - !!int "6"
+"speed": "30 ft."
+"damage_immunities": "psychic"
+"senses": "[darkvision](99%20Game%20Mechanics/CLI/rules/senses.md#Darkvision) 60 ft.,\
+  \ passive Perception 10"
+"languages": "Deep Speech, understands the languages you speak"
+"traits":
+  - "desc": "At the start of each of the aberration's turns, each creature within\
+      \ 5 feet of the aberration must succeed on a Wisdom saving throw against your\
+      \ spell save DC or take 2d6 psychic damage, provided that the aberration isn't\
+      \ [incapacitated](99%20Game%20Mechanics/CLI/rules/conditions.md#Incapacitated)."
+    "name": "Whispering Aura"
+"actions":
+  - "desc": "The aberration makes a number of attacks equal to half this spell's level\
+      \ (rounded down)."
+    "name": "Multiattack"
+  - "desc": "*Melee Spell Attack:* your spell attack modifier to hit, reach 5 ft.,\
+      \ one creature. *Hit:* 1d8 + 3 + the spell's level psychic damage."
+    "name": "Psychic Slam"
+"source":
+  - "TCE"
+```
+^statblock

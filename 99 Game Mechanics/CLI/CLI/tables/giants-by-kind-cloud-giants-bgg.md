@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/compendium/src/5e/bgg
+aliases:
+- "Giants by Kind; Cloud Giants"
+---
+# Giants by Kind; Cloud Giants
+*Source: Bigby Presents: Glory of the Giants p. 188* 
+
+**Cloud Giants**
+
+| Giant | CR |
+|-------|----|
+| [Cloud giant](99%20Game%20Mechanics/CLI/bestiary/giant/cloud-giant.md) | 9 |
+| [Cloud giant destiny gambler](99%20Game%20Mechanics/CLI/bestiary/giant/cloud-giant-destiny-gambler-bgg.md)* | 19 |
+| [Cloud giant of Evil Air](99%20Game%20Mechanics/CLI/bestiary/giant/cloud-giant-of-evil-air-bgg.md)* | 12 |
+| [Cloud giant smiling one](99%20Game%20Mechanics/CLI/bestiary/giant/cloud-giant-smiling-one-mpmm.md)† | 11 |
+| [Mist hulk](99%20Game%20Mechanics/CLI/bestiary/elemental/mist-hulk-bgg.md)* | 6 |
+| [Scion of Memnor](99%20Game%20Mechanics/CLI/bestiary/giant/scion-of-memnor-bgg.md)* | 26 |
+| [Spectral cloud](99%20Game%20Mechanics/CLI/bestiary/undead/spectral-cloud-bgg.md)* | 13 |
+^cloud-giants

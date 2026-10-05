@@ -1,0 +1,40 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-spell
+tags:
+- ttrpg-cli/compendium/src/5e/xge
+- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/druid
+- ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/class/warlock
+- ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/level/6th-level
+- ttrpg-cli/spell/school/transmutation
+classes:
+- Bard (Magical Secrets)
+- Druid
+- Sorcerer
+- Warlock
+- Wizard
+aliases:
+- "Investiture of Stone"
+---
+# Investiture of Stone
+*6th-level, Transmutation*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
+
+Until the spell ends, bits of rock spread across your body, and you gain the following benefits:
+
+- You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.  
+- You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked [prone](99%20Game%20Mechanics/CLI/rules/conditions.md#Prone).  
+- You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are [stunned](99%20Game%20Mechanics/CLI/rules/conditions.md#Stunned) until the end of your next turn.  
+
+**Classes**: [Bard (Magical Secrets)](99%20Game%20Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](99%20Game%20Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](99%20Game%20Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](99%20Game%20Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](99%20Game%20Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+*Source: Xanathar's Guide to Everything p. 159, Elemental Evil Player's Companion p. 19*

@@ -1,0 +1,44 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-spell
+tags:
+- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/warlock
+- ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/level/5th-level
+- ttrpg-cli/spell/reward/charm-of-the-rogue
+- ttrpg-cli/spell/school/illusion
+- ttrpg-cli/spell/subclass/fey-wanderer
+- ttrpg-cli/spell/subclass/lunar-sorcery/full-moon
+- ttrpg-cli/spell/subclass/twilight-domain
+- ttrpg-cli/spell/subrace/elf-mark-of-shadow
+classes:
+- Bard (Magical Secrets)
+- Cleric (Twilight Domain)
+- Ranger (Fey Wanderer)
+- Sorcerer (Lunar Sorcery, Full Moon)
+- Warlock
+- Wizard
+aliases:
+- "Mislead"
+---
+# Mislead
+*5th-level, Illusion*  
+
+
+- **Casting time:** 1 Action
+- **Range:** Self
+- **Components:** S
+- **Duration:** Concentration, up to 1 hour
+
+You become [invisible](99%20Game%20Mechanics/CLI/rules/conditions.md#Invisible) at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.
+
+You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.
+
+You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are [blinded](99%20Game%20Mechanics/CLI/rules/conditions.md#Blinded) and [deafened](99%20Game%20Mechanics/CLI/rules/conditions.md#Deafened) in regard to your own surroundings.
+
+**Classes**: [Bard (Magical Secrets)](99%20Game%20Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Twilight Domain)](99%20Game%20Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE"); [Ranger (Fey Wanderer)](99%20Game%20Mechanics/CLI/lists/list-spells-classes-fey-wanderer-tce.md "subclass=TCE"); [Sorcerer (Lunar Sorcery, Full Moon)](99%20Game%20Mechanics/CLI/lists/list-spells-classes-lunar-sorcery-dsotdq.md "subclass=DSotDQ"); [Warlock](99%20Game%20Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](99%20Game%20Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+*Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

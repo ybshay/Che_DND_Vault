@@ -1,0 +1,235 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/spell/list/subclass/eldritch-knight
+aliases:
+- "Spells for Eldritch Knight"
+---
+# Spells for Eldritch Knight
+
+## Cantrip
+
+- [Acid Splash](99%20Game%20Mechanics/CLI/spells/acid-splash.md "PHB") at class level 3
+- [Blade Ward](99%20Game%20Mechanics/CLI/spells/blade-ward.md "PHB") at class level 3
+- [Booming Blade](99%20Game%20Mechanics/CLI/spells/booming-blade-tce.md "TCE") at class level 3
+- [Chill Touch](99%20Game%20Mechanics/CLI/spells/chill-touch.md "PHB") at class level 3
+- [Control Flames](99%20Game%20Mechanics/CLI/spells/control-flames-xge.md "XGE") at class level 3
+- [Create Bonfire](99%20Game%20Mechanics/CLI/spells/create-bonfire-xge.md "XGE") at class level 3
+- [Dancing Lights](99%20Game%20Mechanics/CLI/spells/dancing-lights.md "PHB") at class level 3
+- [Fire Bolt](99%20Game%20Mechanics/CLI/spells/fire-bolt.md "PHB") at class level 3
+- [Friends](99%20Game%20Mechanics/CLI/spells/friends.md "PHB") at class level 3
+- [Frostbite](99%20Game%20Mechanics/CLI/spells/frostbite-xge.md "XGE") at class level 3
+- [Green-Flame Blade](99%20Game%20Mechanics/CLI/spells/green-flame-blade-tce.md "TCE") at class level 3
+- [Gust](99%20Game%20Mechanics/CLI/spells/gust-xge.md "XGE") at class level 3
+- [Infestation](99%20Game%20Mechanics/CLI/spells/infestation-xge.md "XGE") at class level 3
+- [Light](99%20Game%20Mechanics/CLI/spells/light.md "PHB") at class level 3
+- [Lightning Lure](99%20Game%20Mechanics/CLI/spells/lightning-lure-tce.md "TCE") at class level 3
+- [Mage Hand](99%20Game%20Mechanics/CLI/spells/mage-hand.md "PHB") at class level 3
+- [Mending](99%20Game%20Mechanics/CLI/spells/mending.md "PHB") at class level 3
+- [Message](99%20Game%20Mechanics/CLI/spells/message.md "PHB") at class level 3
+- [Mind Sliver](99%20Game%20Mechanics/CLI/spells/mind-sliver-tce.md "TCE") at class level 3
+- [Minor Illusion](99%20Game%20Mechanics/CLI/spells/minor-illusion.md "PHB") at class level 3
+- [Mold Earth](99%20Game%20Mechanics/CLI/spells/mold-earth-xge.md "XGE") at class level 3
+- [Poison Spray](99%20Game%20Mechanics/CLI/spells/poison-spray.md "PHB") at class level 3
+- [Prestidigitation](99%20Game%20Mechanics/CLI/spells/prestidigitation.md "PHB") at class level 3
+- [Ray of Frost](99%20Game%20Mechanics/CLI/spells/ray-of-frost.md "PHB") at class level 3
+- [Shape Water](99%20Game%20Mechanics/CLI/spells/shape-water-xge.md "XGE") at class level 3
+- [Shocking Grasp](99%20Game%20Mechanics/CLI/spells/shocking-grasp.md "PHB") at class level 3
+- [Sword Burst](99%20Game%20Mechanics/CLI/spells/sword-burst-tce.md "TCE") at class level 3
+- [Thunderclap](99%20Game%20Mechanics/CLI/spells/thunderclap-xge.md "XGE") at class level 3
+- [Toll the Dead](99%20Game%20Mechanics/CLI/spells/toll-the-dead-xge.md "XGE") at class level 3
+- [True Strike](99%20Game%20Mechanics/CLI/spells/true-strike.md "PHB") at class level 3
+
+## 1st Level
+
+- [Absorb Elements](99%20Game%20Mechanics/CLI/spells/absorb-elements-xge.md "XGE") at class level 3
+- [Alarm](99%20Game%20Mechanics/CLI/spells/alarm.md "PHB") at class level 3
+- [Burning Hands](99%20Game%20Mechanics/CLI/spells/burning-hands.md "PHB") at class level 3
+- [Catapult](99%20Game%20Mechanics/CLI/spells/catapult-xge.md "XGE") at class level 3
+- [Cause Fear](99%20Game%20Mechanics/CLI/spells/cause-fear-xge.md "XGE") at class level 3
+- [Charm Person](99%20Game%20Mechanics/CLI/spells/charm-person.md "PHB") at class level 3
+- [Chromatic Orb](99%20Game%20Mechanics/CLI/spells/chromatic-orb.md "PHB") at class level 3
+- [Color Spray](99%20Game%20Mechanics/CLI/spells/color-spray.md "PHB") at class level 3
+- [Comprehend Languages](99%20Game%20Mechanics/CLI/spells/comprehend-languages.md "PHB") at class level 3
+- [Detect Magic](99%20Game%20Mechanics/CLI/spells/detect-magic.md "PHB") at class level 3
+- [Disguise Self](99%20Game%20Mechanics/CLI/spells/disguise-self.md "PHB") at class level 3
+- [Distort Value](99%20Game%20Mechanics/CLI/spells/distort-value-ai.md "AI") at class level 3
+- [Earth Tremor](99%20Game%20Mechanics/CLI/spells/earth-tremor-xge.md "XGE") at class level 3
+- [Expeditious Retreat](99%20Game%20Mechanics/CLI/spells/expeditious-retreat.md "PHB") at class level 3
+- [False Life](99%20Game%20Mechanics/CLI/spells/false-life.md "PHB") at class level 3
+- [Feather Fall](99%20Game%20Mechanics/CLI/spells/feather-fall.md "PHB") at class level 3
+- [Find Familiar](99%20Game%20Mechanics/CLI/spells/find-familiar.md "PHB") at class level 3
+- [Fog Cloud](99%20Game%20Mechanics/CLI/spells/fog-cloud.md "PHB") at class level 3
+- [Frost Fingers](99%20Game%20Mechanics/CLI/spells/frost-fingers-idrotf.md "IDRotF") at class level 3
+- [Grease](99%20Game%20Mechanics/CLI/spells/grease.md "PHB") at class level 3
+- [Ice Knife](99%20Game%20Mechanics/CLI/spells/ice-knife-xge.md "XGE") at class level 3
+- [Identify](99%20Game%20Mechanics/CLI/spells/identify.md "PHB") at class level 3
+- [Illusory Script](99%20Game%20Mechanics/CLI/spells/illusory-script.md "PHB") at class level 3
+- [Jim's Magic Missile](99%20Game%20Mechanics/CLI/spells/jims-magic-missile-ai.md "AI") at class level 3
+- [Jump](99%20Game%20Mechanics/CLI/spells/jump.md "PHB") at class level 3
+- [Longstrider](99%20Game%20Mechanics/CLI/spells/longstrider.md "PHB") at class level 3
+- [Mage Armor](99%20Game%20Mechanics/CLI/spells/mage-armor.md "PHB") at class level 3
+- [Magic Missile](99%20Game%20Mechanics/CLI/spells/magic-missile.md "PHB") at class level 3
+- [Protection from Evil and Good](99%20Game%20Mechanics/CLI/spells/protection-from-evil-and-good.md "PHB") at class level 3
+- [Ray of Sickness](99%20Game%20Mechanics/CLI/spells/ray-of-sickness.md "PHB") at class level 3
+- [Shield](99%20Game%20Mechanics/CLI/spells/shield.md "PHB") at class level 3
+- [Silent Image](99%20Game%20Mechanics/CLI/spells/silent-image.md "PHB") at class level 3
+- [Sleep](99%20Game%20Mechanics/CLI/spells/sleep.md "PHB") at class level 3
+- [Snare](99%20Game%20Mechanics/CLI/spells/snare-xge.md "XGE") at class level 3
+- [Tasha's Caustic Brew](99%20Game%20Mechanics/CLI/spells/tashas-caustic-brew-tce.md "TCE") at class level 3
+- [Tasha's Hideous Laughter](99%20Game%20Mechanics/CLI/spells/tashas-hideous-laughter.md "PHB") at class level 3
+- [Tenser's Floating Disk](99%20Game%20Mechanics/CLI/spells/tensers-floating-disk.md "PHB") at class level 3
+- [Thunderwave](99%20Game%20Mechanics/CLI/spells/thunderwave.md "PHB") at class level 3
+- [Unseen Servant](99%20Game%20Mechanics/CLI/spells/unseen-servant.md "PHB") at class level 3
+- [Witch Bolt](99%20Game%20Mechanics/CLI/spells/witch-bolt.md "PHB") at class level 3
+
+## 2nd Level
+
+- [Aganazzar's Scorcher](99%20Game%20Mechanics/CLI/spells/aganazzars-scorcher-xge.md "XGE") at class level 7
+- [Alter Self](99%20Game%20Mechanics/CLI/spells/alter-self.md "PHB") at class level 7
+- [Arcane Lock](99%20Game%20Mechanics/CLI/spells/arcane-lock.md "PHB") at class level 7
+- [Augury](99%20Game%20Mechanics/CLI/spells/augury.md "PHB") at class level 7
+- [Blindness/Deafness](99%20Game%20Mechanics/CLI/spells/blindness-deafness.md "PHB") at class level 7
+- [Blur](99%20Game%20Mechanics/CLI/spells/blur.md "PHB") at class level 7
+- [Cloud of Daggers](99%20Game%20Mechanics/CLI/spells/cloud-of-daggers.md "PHB") at class level 7
+- [Continual Flame](99%20Game%20Mechanics/CLI/spells/continual-flame.md "PHB") at class level 7
+- [Crown of Madness](99%20Game%20Mechanics/CLI/spells/crown-of-madness.md "PHB") at class level 7
+- [Darkness](99%20Game%20Mechanics/CLI/spells/darkness.md "PHB") at class level 7
+- [Darkvision](99%20Game%20Mechanics/CLI/spells/darkvision.md "PHB") at class level 7
+- [Detect Thoughts](99%20Game%20Mechanics/CLI/spells/detect-thoughts.md "PHB") at class level 7
+- [Dragon's Breath](99%20Game%20Mechanics/CLI/spells/dragons-breath-xge.md "XGE") at class level 7
+- [Dust Devil](99%20Game%20Mechanics/CLI/spells/dust-devil-xge.md "XGE") at class level 7
+- [Earthbind](99%20Game%20Mechanics/CLI/spells/earthbind-xge.md "XGE") at class level 7
+- [Enhance Ability](99%20Game%20Mechanics/CLI/spells/enhance-ability.md "PHB") at class level 7
+- [Enlarge/Reduce](99%20Game%20Mechanics/CLI/spells/enlarge-reduce.md "PHB") at class level 7
+- [Flaming Sphere](99%20Game%20Mechanics/CLI/spells/flaming-sphere.md "PHB") at class level 7
+- [Gentle Repose](99%20Game%20Mechanics/CLI/spells/gentle-repose.md "PHB") at class level 7
+- [Gift of Gab](99%20Game%20Mechanics/CLI/spells/gift-of-gab-ai.md "AI") at class level 7
+- [Gust of Wind](99%20Game%20Mechanics/CLI/spells/gust-of-wind.md "PHB") at class level 7
+- [Hold Person](99%20Game%20Mechanics/CLI/spells/hold-person.md "PHB") at class level 7
+- [Invisibility](99%20Game%20Mechanics/CLI/spells/invisibility.md "PHB") at class level 7
+- [Jim's Glowing Coin](99%20Game%20Mechanics/CLI/spells/jims-glowing-coin-ai.md "AI") at class level 7
+- [Knock](99%20Game%20Mechanics/CLI/spells/knock.md "PHB") at class level 7
+- [Levitate](99%20Game%20Mechanics/CLI/spells/levitate.md "PHB") at class level 7
+- [Locate Object](99%20Game%20Mechanics/CLI/spells/locate-object.md "PHB") at class level 7
+- [Magic Mouth](99%20Game%20Mechanics/CLI/spells/magic-mouth.md "PHB") at class level 7
+- [Magic Weapon](99%20Game%20Mechanics/CLI/spells/magic-weapon.md "PHB") at class level 7
+- [Maximilian's Earthen Grasp](99%20Game%20Mechanics/CLI/spells/maximilians-earthen-grasp-xge.md "XGE") at class level 7
+- [Melf's Acid Arrow](99%20Game%20Mechanics/CLI/spells/melfs-acid-arrow.md "PHB") at class level 7
+- [Mind Spike](99%20Game%20Mechanics/CLI/spells/mind-spike-xge.md "XGE") at class level 7
+- [Mirror Image](99%20Game%20Mechanics/CLI/spells/mirror-image.md "PHB") at class level 7
+- [Misty Step](99%20Game%20Mechanics/CLI/spells/misty-step.md "PHB") at class level 7
+- [Nathair's Mischief](99%20Game%20Mechanics/CLI/spells/nathairs-mischief-ftd.md "FTD") at class level 7
+- [Nystul's Magic Aura](99%20Game%20Mechanics/CLI/spells/nystuls-magic-aura.md "PHB") at class level 7
+- [Phantasmal Force](99%20Game%20Mechanics/CLI/spells/phantasmal-force.md "PHB") at class level 7
+- [Pyrotechnics](99%20Game%20Mechanics/CLI/spells/pyrotechnics-xge.md "XGE") at class level 7
+- [Ray of Enfeeblement](99%20Game%20Mechanics/CLI/spells/ray-of-enfeeblement.md "PHB") at class level 7
+- [Rime's Binding Ice](99%20Game%20Mechanics/CLI/spells/rimes-binding-ice-ftd.md "FTD") at class level 7
+- [Rope Trick](99%20Game%20Mechanics/CLI/spells/rope-trick.md "PHB") at class level 7
+- [Scorching Ray](99%20Game%20Mechanics/CLI/spells/scorching-ray.md "PHB") at class level 7
+- [See Invisibility](99%20Game%20Mechanics/CLI/spells/see-invisibility.md "PHB") at class level 7
+- [Shadow Blade](99%20Game%20Mechanics/CLI/spells/shadow-blade-xge.md "XGE") at class level 7
+- [Shatter](99%20Game%20Mechanics/CLI/spells/shatter.md "PHB") at class level 7
+- [Skywrite](99%20Game%20Mechanics/CLI/spells/skywrite-xge.md "XGE") at class level 7
+- [Snilloc's Snowball Swarm](99%20Game%20Mechanics/CLI/spells/snillocs-snowball-swarm-xge.md "XGE") at class level 7
+- [Spider Climb](99%20Game%20Mechanics/CLI/spells/spider-climb.md "PHB") at class level 7
+- [Spray of Cards](99%20Game%20Mechanics/CLI/spells/spray-of-cards-bmt.md "BMT") at class level 7
+- [Suggestion](99%20Game%20Mechanics/CLI/spells/suggestion.md "PHB") at class level 7
+- [Tasha's Mind Whip](99%20Game%20Mechanics/CLI/spells/tashas-mind-whip-tce.md "TCE") at class level 7
+- [Warding Wind](99%20Game%20Mechanics/CLI/spells/warding-wind-xge.md "XGE") at class level 7
+- [Web](99%20Game%20Mechanics/CLI/spells/web.md "PHB") at class level 7
+
+## 3rd Level
+
+- [Animate Dead](99%20Game%20Mechanics/CLI/spells/animate-dead.md "PHB") at class level 13
+- [Antagonize](99%20Game%20Mechanics/CLI/spells/antagonize-bmt.md "BMT") at class level 13
+- [Ashardalon's Stride](99%20Game%20Mechanics/CLI/spells/ashardalons-stride-ftd.md "FTD") at class level 13
+- [Bestow Curse](99%20Game%20Mechanics/CLI/spells/bestow-curse.md "PHB") at class level 13
+- [Blink](99%20Game%20Mechanics/CLI/spells/blink.md "PHB") at class level 13
+- [Catnap](99%20Game%20Mechanics/CLI/spells/catnap-xge.md "XGE") at class level 13
+- [Clairvoyance](99%20Game%20Mechanics/CLI/spells/clairvoyance.md "PHB") at class level 13
+- [Counterspell](99%20Game%20Mechanics/CLI/spells/counterspell.md "PHB") at class level 13
+- [Dispel Magic](99%20Game%20Mechanics/CLI/spells/dispel-magic.md "PHB") at class level 13
+- [Enemies Abound](99%20Game%20Mechanics/CLI/spells/enemies-abound-xge.md "XGE") at class level 13
+- [Erupting Earth](99%20Game%20Mechanics/CLI/spells/erupting-earth-xge.md "XGE") at class level 13
+- [Fast Friends](99%20Game%20Mechanics/CLI/spells/fast-friends-ai.md "AI") at class level 13
+- [Fear](99%20Game%20Mechanics/CLI/spells/fear.md "PHB") at class level 13
+- [Feign Death](99%20Game%20Mechanics/CLI/spells/feign-death.md "PHB") at class level 13
+- [Fireball](99%20Game%20Mechanics/CLI/spells/fireball.md "PHB") at class level 13
+- [Flame Arrows](99%20Game%20Mechanics/CLI/spells/flame-arrows-xge.md "XGE") at class level 13
+- [Fly](99%20Game%20Mechanics/CLI/spells/fly.md "PHB") at class level 13
+- [Gaseous Form](99%20Game%20Mechanics/CLI/spells/gaseous-form.md "PHB") at class level 13
+- [Glyph of Warding](99%20Game%20Mechanics/CLI/spells/glyph-of-warding.md "PHB") at class level 13
+- [Haste](99%20Game%20Mechanics/CLI/spells/haste.md "PHB") at class level 13
+- [Hypnotic Pattern](99%20Game%20Mechanics/CLI/spells/hypnotic-pattern.md "PHB") at class level 13
+- [Incite Greed](99%20Game%20Mechanics/CLI/spells/incite-greed-ai.md "AI") at class level 13
+- [Intellect Fortress](99%20Game%20Mechanics/CLI/spells/intellect-fortress-tce.md "TCE") at class level 13
+- [Leomund's Tiny Hut](99%20Game%20Mechanics/CLI/spells/leomunds-tiny-hut.md "PHB") at class level 13
+- [Life Transference](99%20Game%20Mechanics/CLI/spells/life-transference-xge.md "XGE") at class level 13
+- [Lightning Bolt](99%20Game%20Mechanics/CLI/spells/lightning-bolt.md "PHB") at class level 13
+- [Magic Circle](99%20Game%20Mechanics/CLI/spells/magic-circle.md "PHB") at class level 13
+- [Major Image](99%20Game%20Mechanics/CLI/spells/major-image.md "PHB") at class level 13
+- [Melf's Minute Meteors](99%20Game%20Mechanics/CLI/spells/melfs-minute-meteors-xge.md "XGE") at class level 13
+- [Nondetection](99%20Game%20Mechanics/CLI/spells/nondetection.md "PHB") at class level 13
+- [Phantom Steed](99%20Game%20Mechanics/CLI/spells/phantom-steed.md "PHB") at class level 13
+- [Protection from Energy](99%20Game%20Mechanics/CLI/spells/protection-from-energy.md "PHB") at class level 13
+- [Remove Curse](99%20Game%20Mechanics/CLI/spells/remove-curse.md "PHB") at class level 13
+- [Sending](99%20Game%20Mechanics/CLI/spells/sending.md "PHB") at class level 13
+- [Sleet Storm](99%20Game%20Mechanics/CLI/spells/sleet-storm.md "PHB") at class level 13
+- [Slow](99%20Game%20Mechanics/CLI/spells/slow.md "PHB") at class level 13
+- [Speak with Dead](99%20Game%20Mechanics/CLI/spells/speak-with-dead.md "PHB") at class level 13
+- [Spirit Shroud](99%20Game%20Mechanics/CLI/spells/spirit-shroud-tce.md "TCE") at class level 13
+- [Stinking Cloud](99%20Game%20Mechanics/CLI/spells/stinking-cloud.md "PHB") at class level 13
+- [Summon Fey](99%20Game%20Mechanics/CLI/spells/summon-fey-tce.md "TCE") at class level 13
+- [Summon Lesser Demons](99%20Game%20Mechanics/CLI/spells/summon-lesser-demons-xge.md "XGE") at class level 13
+- [Summon Shadowspawn](99%20Game%20Mechanics/CLI/spells/summon-shadowspawn-tce.md "TCE") at class level 13
+- [Summon Undead](99%20Game%20Mechanics/CLI/spells/summon-undead-tce.md "TCE") at class level 13
+- [Thunder Step](99%20Game%20Mechanics/CLI/spells/thunder-step-xge.md "XGE") at class level 13
+- [Tidal Wave](99%20Game%20Mechanics/CLI/spells/tidal-wave-xge.md "XGE") at class level 13
+- [Tiny Servant](99%20Game%20Mechanics/CLI/spells/tiny-servant-xge.md "XGE") at class level 13
+- [Tongues](99%20Game%20Mechanics/CLI/spells/tongues.md "PHB") at class level 13
+- [Vampiric Touch](99%20Game%20Mechanics/CLI/spells/vampiric-touch.md "PHB") at class level 13
+- [Wall of Sand](99%20Game%20Mechanics/CLI/spells/wall-of-sand-xge.md "XGE") at class level 13
+- [Wall of Water](99%20Game%20Mechanics/CLI/spells/wall-of-water-xge.md "XGE") at class level 13
+- [Water Breathing](99%20Game%20Mechanics/CLI/spells/water-breathing.md "PHB") at class level 13
+
+## 4th Level
+
+- [Arcane Eye](99%20Game%20Mechanics/CLI/spells/arcane-eye.md "PHB") at class level 19
+- [Banishment](99%20Game%20Mechanics/CLI/spells/banishment.md "PHB") at class level 19
+- [Blight](99%20Game%20Mechanics/CLI/spells/blight.md "PHB") at class level 19
+- [Charm Monster](99%20Game%20Mechanics/CLI/spells/charm-monster-xge.md "XGE") at class level 19
+- [Confusion](99%20Game%20Mechanics/CLI/spells/confusion.md "PHB") at class level 19
+- [Conjure Minor Elementals](99%20Game%20Mechanics/CLI/spells/conjure-minor-elementals.md "PHB") at class level 19
+- [Control Water](99%20Game%20Mechanics/CLI/spells/control-water.md "PHB") at class level 19
+- [Dimension Door](99%20Game%20Mechanics/CLI/spells/dimension-door.md "PHB") at class level 19
+- [Divination](99%20Game%20Mechanics/CLI/spells/divination.md "PHB") at class level 19
+- [Elemental Bane](99%20Game%20Mechanics/CLI/spells/elemental-bane-xge.md "XGE") at class level 19
+- [Evard's Black Tentacles](99%20Game%20Mechanics/CLI/spells/evards-black-tentacles.md "PHB") at class level 19
+- [Fabricate](99%20Game%20Mechanics/CLI/spells/fabricate.md "PHB") at class level 19
+- [Fire Shield](99%20Game%20Mechanics/CLI/spells/fire-shield.md "PHB") at class level 19
+- [Greater Invisibility](99%20Game%20Mechanics/CLI/spells/greater-invisibility.md "PHB") at class level 19
+- [Hallucinatory Terrain](99%20Game%20Mechanics/CLI/spells/hallucinatory-terrain.md "PHB") at class level 19
+- [Ice Storm](99%20Game%20Mechanics/CLI/spells/ice-storm.md "PHB") at class level 19
+- [Leomund's Secret Chest](99%20Game%20Mechanics/CLI/spells/leomunds-secret-chest.md "PHB") at class level 19
+- [Locate Creature](99%20Game%20Mechanics/CLI/spells/locate-creature.md "PHB") at class level 19
+- [Mordenkainen's Faithful Hound](99%20Game%20Mechanics/CLI/spells/mordenkainens-faithful-hound.md "PHB") at class level 19
+- [Mordenkainen's Private Sanctum](99%20Game%20Mechanics/CLI/spells/mordenkainens-private-sanctum.md "PHB") at class level 19
+- [Otiluke's Resilient Sphere](99%20Game%20Mechanics/CLI/spells/otilukes-resilient-sphere.md "PHB") at class level 19
+- [Phantasmal Killer](99%20Game%20Mechanics/CLI/spells/phantasmal-killer.md "PHB") at class level 19
+- [Polymorph](99%20Game%20Mechanics/CLI/spells/polymorph.md "PHB") at class level 19
+- [Raulothim's Psychic Lance](99%20Game%20Mechanics/CLI/spells/raulothims-psychic-lance-ftd.md "FTD") at class level 19
+- [Sickening Radiance](99%20Game%20Mechanics/CLI/spells/sickening-radiance-xge.md "XGE") at class level 19
+- [Spirit of Death](99%20Game%20Mechanics/CLI/spells/spirit-of-death-bmt.md "BMT") at class level 19
+- [Stone Shape](99%20Game%20Mechanics/CLI/spells/stone-shape.md "PHB") at class level 19
+- [Stoneskin](99%20Game%20Mechanics/CLI/spells/stoneskin.md "PHB") at class level 19
+- [Storm Sphere](99%20Game%20Mechanics/CLI/spells/storm-sphere-xge.md "XGE") at class level 19
+- [Summon Aberration](99%20Game%20Mechanics/CLI/spells/summon-aberration-tce.md "TCE") at class level 19
+- [Summon Construct](99%20Game%20Mechanics/CLI/spells/summon-construct-tce.md "TCE") at class level 19
+- [Summon Elemental](99%20Game%20Mechanics/CLI/spells/summon-elemental-tce.md "TCE") at class level 19
+- [Summon Greater Demon](99%20Game%20Mechanics/CLI/spells/summon-greater-demon-xge.md "XGE") at class level 19
+- [Vitriolic Sphere](99%20Game%20Mechanics/CLI/spells/vitriolic-sphere-xge.md "XGE") at class level 19
+- [Wall of Fire](99%20Game%20Mechanics/CLI/spells/wall-of-fire.md "PHB") at class level 19
+- [Watery Sphere](99%20Game%20Mechanics/CLI/spells/watery-sphere-xge.md "XGE") at class level 19

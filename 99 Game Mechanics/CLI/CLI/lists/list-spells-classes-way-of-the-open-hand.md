@@ -1,0 +1,14 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/spell/list/subclass/way-of-the-open-hand
+aliases:
+- "Spells for Way of the Open Hand"
+---
+# Spells for Way of the Open Hand
+
+## 1st Level
+
+- [Sanctuary](99%20Game%20Mechanics/CLI/spells/sanctuary.md "PHB") at class level 11
