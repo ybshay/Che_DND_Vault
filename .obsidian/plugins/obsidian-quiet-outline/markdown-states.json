@@ -4489,11 +4489,11 @@
     "cursor": {
       "from": {
         "line": 18,
-        "ch": 33
+        "ch": 42
       },
       "to": {
         "line": 18,
-        "ch": 33
+        "ch": 42
       }
     },
     "expandedKeys": [
@@ -4567,6 +4567,20 @@
       "to": {
         "line": 15,
         "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "99 Game Mechanics/CLI/vehicles/vehicles.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
       }
     },
     "expandedKeys": []

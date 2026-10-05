@@ -1,4 +1,9 @@
 ---
+aliases: [Index of Vehicles]
+title: vehicles
+tags:
+date created: Monday, 5th October 2026, 9:57:35 pm
+date modified: Monday, 5th October 2026, 10:34:43 pm
 obsidianUIMode: preview
 cssclasses:
 - json5e-note
