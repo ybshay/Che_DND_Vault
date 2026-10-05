@@ -1,4 +1,7 @@
 ---
+title: sorcerer-shadow-magic-xge
+date created: Monday, 5th October 2026, 9:57:21 pm
+date modified: Monday, 5th October 2026, 10:54:45 pm
 obsidianUIMode: preview
 cssclasses:
 - json5e-class
@@ -6,7 +9,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/sorcerer/shadow
 aliases:
-- "Shadow Magic"
+  - Shadow Magic
+  - "Shadow Magic"
 ---
 # Shadow Magic
 *[Sorcerer](./sorcerer.md): Sorcerous Origin*  
