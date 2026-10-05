@@ -8,20 +8,10 @@ date modified: Monday, 5th October 2026, 9:9:09 pm
 # Dungeons & Dragons
 
 ---
-#### Important Notes
-```dataview
-LIST WITHOUT ID
-link(file.link, default(file.aliases[0], file.name)) 
-FROM [[#]]
-AND #important
-```
+
 #### [[1 Dark Ones|Dark Ones]]
 [[11.30 Session Notes|Session Notes]]
-[[11.1 Nyvara Keris|Nyvara Keris]] / [[11.1 Dashboard.canvas|Dashboard]]
-
-|                               |                         |                                                                  |                                                                                                                     |                                                                                                          |                                 |
-| ----------------------------- | ----------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| [[11.1 Inventory\|Inventory]] | [[11.1 Spells\|Spells]] | [[11.1 Class\|Class Features]]<br>[[11.1 Other\|Other Features]] | [[11.11_Source_Class1.pdf\|SRC: Class (Sorcerer)]] <br>[[11.11_Source_Class1_Subclass.pdf\|SRC: Subclass (Shadow)]] | [[11.11_Source_Class2.pdf\|SRC: Class (Warlock)]] <br>[[11.11_Source_Class2.pdf\|SRC: Subclass (Fiend)]] | [[11.11_Source_Race.pdf\|Race]] |
+[[11.1 Nyvara Keris|Nyvara Keris]] / [[11.1 Dashboard.canvas|Dashboard]] / [[11.1 Inventory|Inventory]] / [[11.1 Spells|Spells]] / [[11.1 Class|Class Features]] / [[11.1 Other|Other Features]]
 
 > [!example]- Other Notes
 > ```dataview
