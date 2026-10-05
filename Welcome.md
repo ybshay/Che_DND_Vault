@@ -18,7 +18,7 @@ FROM [[#]]
 AND #important
 ```
 #### [[1 Dark Ones|Dark Ones]]
-[[11.30 Session Notes|Session Notes]]
+[[11.30 Session Notes|\[\[1 Dark Ones|Dark Ones\]\] Session Notes]]
 [[11.1 Nyvara Keris|Nyvara Keris]] / [[11.1 Dashboard.canvas|Dashboard]] / [[11.1 Inventory|Inventory]] / [[11.1 Spells|Spells]] / [[11.1 Class|Class Features]] / [[11.1 Other|Other Features]]
 
 > [!example]- Other Notes

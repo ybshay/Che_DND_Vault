@@ -4458,12 +4458,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 10,
-        "ch": 0
+        "line": 7,
+        "ch": 41
       },
       "to": {
-        "line": 10,
-        "ch": 0
+        "line": 7,
+        "ch": 41
       }
     },
     "expandedKeys": []
