@@ -4716,11 +4716,25 @@
     "cursor": {
       "from": {
         "line": 9,
-        "ch": 5
+        "ch": 0
       },
       "to": {
         "line": 9,
-        "ch": 5
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "1 Dark Ones/11 Player Characters/11.1 Nyvara Keris/11.1 Planning.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
       }
     },
     "expandedKeys": []
