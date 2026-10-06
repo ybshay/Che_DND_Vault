@@ -4488,12 +4488,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 42
+        "line": 19,
+        "ch": 13
       },
       "to": {
-        "line": 18,
-        "ch": 42
+        "line": 19,
+        "ch": 13
       }
     },
     "expandedKeys": [
@@ -4533,12 +4533,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 0
+        "line": 14,
+        "ch": 72
       },
       "to": {
-        "line": 15,
-        "ch": 0
+        "line": 14,
+        "ch": 72
       }
     },
     "expandedKeys": []
@@ -4673,12 +4673,54 @@
     "scroll": 0,
     "cursor": {
       "from": {
+        "line": 16,
+        "ch": 6
+      },
+      "to": {
+        "line": 16,
+        "ch": 6
+      }
+    },
+    "expandedKeys": []
+  },
+  "9 Obsidian/Unique Notes/2026-09-23, 8-24 pm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
         "line": 14,
-        "ch": 75
+        "ch": 51
       },
       "to": {
         "line": 14,
-        "ch": 75
+        "ch": 51
+      }
+    },
+    "expandedKeys": []
+  },
+  "9 Obsidian/Unique Notes/2026-09-23, 9-50 pm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 51
+      },
+      "to": {
+        "line": 14,
+        "ch": 51
+      }
+    },
+    "expandedKeys": []
+  },
+  "1 Dark Ones/11 Player Characters/11.1 Nyvara Keris/11.1 Lore.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 5
+      },
+      "to": {
+        "line": 9,
+        "ch": 5
       }
     },
     "expandedKeys": []
