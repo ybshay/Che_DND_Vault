@@ -1,0 +1,460 @@
+/* Better Backlinks
+ * Every colour, font and radius comes from the active theme's variables;
+ * only spacing is given in px. The --better-backlinks-bleed-*, -inset-*,
+ * -offset and -extend properties are measured in JS (see measure() in view.ts).
+ */
+
+/* ---------- Section ---------- */
+
+.better-backlinks {
+	/* Sits over Obsidian's scroll-past-end space after a long note, or at the
+	   bottom of the pane under a short one. */
+	margin-top: var(--better-backlinks-offset, 0px);
+	padding-top: 32px;
+	margin-left: calc(-1 * var(--better-backlinks-bleed-left, 0px));
+	margin-right: calc(-1 * var(--better-backlinks-bleed-right, 0px));
+	margin-bottom: calc(-1 * var(--better-backlinks-bleed-bottom, 0px));
+	user-select: text;
+	cursor: auto;
+}
+
+/* In Reading view the section is the page's last child, where Obsidian zeroes
+   the bottom margin; this is specific enough to keep the bleed. */
+.markdown-reading-view .markdown-preview-view > .better-backlinks {
+	margin-bottom: calc(-1 * var(--better-backlinks-bleed-bottom, 0px));
+}
+
+.better-backlinks-panel {
+	border-top: 1px solid var(--background-modifier-border);
+	background-color: var(--background-secondary);
+	box-shadow: inset 0 2px 5px -3px var(--background-modifier-box-shadow);
+	padding-top: 22px;
+	padding-bottom: calc(34px + var(--better-backlinks-bleed-bottom, 0px) + var(--better-backlinks-extend, 0px));
+	/* Cards line up with the note's text column. */
+	padding-left: var(--better-backlinks-inset-left, 0px);
+	padding-right: var(--better-backlinks-inset-right, 0px);
+}
+
+/* ---------- Header ---------- */
+
+.better-backlinks-header {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	margin-bottom: 16px;
+	font-family: var(--font-interface);
+}
+
+.better-backlinks-title {
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	font-weight: 500;
+	font-size: var(--font-ui-smaller);
+	color: var(--text-muted);
+}
+
+.better-backlinks-count {
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+	background-color: var(--background-modifier-hover);
+	padding: 2px 7px;
+	border-radius: var(--radius-xl);
+	line-height: var(--line-height-tight);
+}
+
+/* Sort button: pushed right, with Collapse all / Expand all after it. */
+.better-backlinks-header .better-backlinks-sort {
+	margin-left: auto;
+	color: var(--text-faint);
+	--icon-size: var(--icon-s);
+}
+
+.better-backlinks-header .better-backlinks-sort:hover {
+	color: var(--text-muted);
+}
+
+.better-backlinks-header .better-backlinks-toggle-all {
+	margin-left: 0;
+	height: auto;
+	padding: 0;
+	border: none;
+	background: none;
+	box-shadow: none;
+	font-family: var(--font-interface);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+	cursor: var(--cursor);
+}
+
+.better-backlinks-header .better-backlinks-toggle-all:hover {
+	background: none;
+	color: var(--text-muted);
+}
+
+/* ---------- Cards ---------- */
+
+.better-backlinks-cards {
+	display: flex;
+	flex-direction: column;
+	gap: 12px;
+}
+
+.better-backlinks-card {
+	background-color: var(--background-primary);
+	border-radius: var(--radius-m);
+	overflow: hidden;
+	box-shadow:
+		0 0 0 1px var(--background-modifier-border),
+		var(--shadow-s);
+	transition:
+		box-shadow 120ms ease-out,
+		transform 120ms ease-out;
+}
+
+.better-backlinks-card.is-collapsed {
+	box-shadow: 0 0 0 1px var(--background-modifier-border);
+}
+
+.better-backlinks-card:hover {
+	box-shadow:
+		0 0 0 1px var(--background-modifier-border-hover),
+		var(--shadow-s);
+	transform: translateY(-1px);
+}
+
+.better-backlinks-card-header {
+	display: flex;
+	align-items: center;
+	gap: 9px;
+	padding: 10px 14px 9px;
+	border-bottom: 1px solid var(--background-modifier-border);
+	font-family: var(--font-interface);
+	cursor: var(--cursor);
+}
+
+.better-backlinks-card.is-collapsed .better-backlinks-card-header {
+	border-bottom-color: transparent;
+}
+
+.better-backlinks-card-hash {
+	font-family: var(--font-monospace);
+	color: var(--text-faint);
+	flex-shrink: 0;
+}
+
+.better-backlinks-card-title {
+	min-width: 0;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	font-weight: 600;
+	color: var(--text-normal);
+	text-decoration-line: none;
+	cursor: var(--cursor-link);
+}
+
+.better-backlinks-card-title:hover {
+	color: var(--text-accent);
+}
+
+/* "Highlight matches" off: mentions and title matches look like plain links
+   and text, but stay clickable. */
+.better-backlinks-panel.is-plain .better-backlinks-excerpt .better-backlinks-mention,
+.better-backlinks-panel.is-plain .better-backlinks-title-match {
+	background-color: transparent;
+	padding: 0;
+}
+
+/* The part of a title-match card's title that matches this note's name. */
+.better-backlinks-title-match {
+	background-color: var(--text-highlight-bg, var(--highlight-background));
+	border-radius: 3px;
+	padding: 0 3px;
+}
+
+.better-backlinks-card.is-title-match .better-backlinks-card-header {
+	cursor: auto;
+}
+
+.better-backlinks-card-meta {
+	flex-shrink: 0;
+	white-space: nowrap;
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+}
+
+/* On mobile, titles get the room: a smaller title size, and the meta drops
+   its words ("1 mention · 3h ago" becomes "1 · 3h ago"; a title match shows
+   just its age). */
+.is-mobile .better-backlinks-card-title {
+	font-size: var(--font-ui-small);
+}
+
+.is-mobile .better-backlinks-card-meta-label {
+	display: none;
+}
+
+.better-backlinks-card-chevron {
+	margin-left: auto;
+	flex-shrink: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 22px;
+	height: 22px;
+	color: var(--text-faint);
+	--icon-size: var(--icon-s);
+}
+
+/* ---------- Body ---------- */
+
+.better-backlinks-card-body-wrap {
+	display: grid;
+	grid-template-rows: 1fr;
+	transition: grid-template-rows 140ms ease-out;
+}
+
+.better-backlinks-card.is-collapsed .better-backlinks-card-body-wrap {
+	grid-template-rows: 0fr;
+}
+
+.better-backlinks-card-body-clip {
+	min-height: 0;
+	overflow: hidden;
+}
+
+.better-backlinks-card-body {
+	padding: 12px 16px 14px;
+}
+
+.better-backlinks-excerpt {
+	font-family: var(--font-text);
+	font-size: calc(var(--font-text-size) * 0.9);
+	color: var(--text-normal);
+}
+
+.better-backlinks-excerpt + .better-backlinks-excerpt {
+	margin-top: 10px;
+	padding-top: 10px;
+	border-top: 1px solid var(--background-modifier-border);
+}
+
+.better-backlinks-excerpt > :first-child {
+	margin-top: 0;
+}
+
+.better-backlinks-excerpt > :last-child {
+	margin-bottom: 0;
+}
+
+/* Property links: one row per property, like Obsidian's properties view. */
+.better-backlinks-properties {
+	display: flex;
+	flex-direction: column;
+	gap: 4px;
+	font-family: var(--font-interface);
+	font-size: var(--font-ui-small);
+}
+
+.better-backlinks-property {
+	display: flex;
+	align-items: baseline;
+	gap: 12px;
+}
+
+.better-backlinks-property-key {
+	flex-shrink: 0;
+	min-width: 6em;
+	color: var(--text-muted);
+}
+
+.better-backlinks-property-values {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2px 10px;
+	min-width: 0;
+}
+
+/* ---------- Unlinked mentions ---------- */
+
+.better-backlinks-group {
+	margin-top: 28px;
+}
+
+/* Plain text that names this note: marked like a mention, with a dashed
+   underline to say it isn't a link yet. */
+.better-backlinks-excerpt .better-backlinks-unlinked {
+	text-decoration-line: underline;
+	text-decoration-style: dashed;
+	text-decoration-color: var(--text-faint);
+	text-underline-offset: 3px;
+	cursor: var(--cursor-link);
+}
+
+.better-backlinks-excerpt .better-backlinks-link-button,
+.better-backlinks-card-header .better-backlinks-link-all {
+	height: auto;
+	padding: 0 4px;
+	border: none;
+	background: none;
+	box-shadow: none;
+	font-family: var(--font-interface);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-accent);
+	cursor: var(--cursor);
+}
+
+.better-backlinks-excerpt .better-backlinks-link-button {
+	margin-left: 2px;
+	white-space: nowrap;
+	--icon-size: var(--icon-xs);
+}
+
+.better-backlinks-excerpt .better-backlinks-link-button.is-disabled {
+	pointer-events: none;
+	opacity: 0.5;
+}
+
+.better-backlinks-excerpt .better-backlinks-link-button:hover,
+.better-backlinks-card-header .better-backlinks-link-all:hover {
+	background: none;
+	color: var(--text-accent-hover);
+	text-decoration-line: underline;
+}
+
+.better-backlinks-card-header .better-backlinks-link-all {
+	flex-shrink: 0;
+	margin-left: auto;
+}
+
+.better-backlinks-card-header .better-backlinks-link-all + .better-backlinks-card-chevron {
+	margin-left: 0;
+}
+
+.better-backlinks-link-icon {
+	margin-right: 2px;
+	vertical-align: -0.1em;
+}
+
+.better-backlinks-link-icon svg {
+	vertical-align: baseline;
+}
+
+/* Ancestor list items are context, not the match. */
+.better-backlinks-excerpt li.better-backlinks-context {
+	color: var(--text-muted);
+}
+
+.better-backlinks-excerpt li.better-backlinks-match {
+	color: var(--text-normal);
+}
+
+.better-backlinks-excerpt .better-backlinks-mention {
+	/* Themes written for older Obsidian set --text-highlight-bg; current
+	   Obsidian styles ==highlights== with --highlight-background. */
+	background-color: var(--text-highlight-bg, var(--highlight-background));
+	border-radius: 3px;
+	padding: 0 3px;
+}
+
+.better-backlinks-more {
+	margin-top: 10px;
+	font-family: var(--font-interface);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+	cursor: var(--cursor);
+}
+
+.better-backlinks-empty {
+	font-family: var(--font-interface);
+	font-size: var(--font-ui-smaller);
+	color: var(--text-faint);
+}
+
+.better-backlinks-more:hover {
+	color: var(--text-muted);
+}
+
+/* ---------- Sidebar ---------- */
+
+/* In the sidebar the panel sits on the sidebar's own background, so it drops
+   the rule, tint and shadow that set it apart from a note. */
+.better-backlinks-sidebar .better-backlinks-panel {
+	border-top: none;
+	background-color: transparent;
+	box-shadow: none;
+	padding: 4px 0 24px;
+}
+
+.better-backlinks-sidebar .better-backlinks-header {
+	margin-bottom: 10px;
+}
+
+.better-backlinks-sidebar .better-backlinks-cards {
+	gap: 8px;
+}
+
+.better-backlinks-sidebar .better-backlinks-group {
+	margin-top: 20px;
+}
+
+/* A sidebar is about as narrow as a phone, so cards are compact the same way. */
+.better-backlinks-sidebar .better-backlinks-card-header {
+	gap: 6px;
+	padding: 7px 10px 6px;
+}
+
+.better-backlinks-sidebar .better-backlinks-card-title {
+	font-size: var(--font-ui-small);
+}
+
+.better-backlinks-sidebar .better-backlinks-card-meta-label {
+	display: none;
+}
+
+.better-backlinks-sidebar .better-backlinks-card-body {
+	padding: 8px 12px 10px;
+}
+
+.better-backlinks-sidebar .better-backlinks-excerpt {
+	font-size: var(--font-ui-small);
+}
+
+.better-backlinks-sidebar-empty {
+	padding: 8px 0;
+	font-size: var(--font-ui-small);
+	color: var(--text-muted);
+}
+
+/* ---------- Landing on a mention ---------- */
+
+.better-backlinks-pulse,
+.better-backlinks-pulse-block {
+	animation: better-backlinks-pulse 600ms ease-out;
+}
+
+@keyframes better-backlinks-pulse {
+	from {
+		background-color: var(--text-accent);
+	}
+	to {
+		background-color: transparent;
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.better-backlinks-card,
+	.better-backlinks-card-body-wrap {
+		transition: none;
+	}
+
+	.better-backlinks-card:hover {
+		transform: none;
+	}
+}
+
+@media print {
+	.better-backlinks {
+		display: none;
+	}
+}
