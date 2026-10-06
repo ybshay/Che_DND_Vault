@@ -4715,12 +4715,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 0
+        "line": 21,
+        "ch": 81
       },
       "to": {
-        "line": 18,
-        "ch": 0
+        "line": 21,
+        "ch": 81
       }
     },
     "expandedKeys": []
@@ -4735,6 +4735,20 @@
       "to": {
         "line": 10,
         "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "1 Dark Ones/13 Session Notes/13 Session Notes.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 3
+      },
+      "to": {
+        "line": 15,
+        "ch": 3
       }
     },
     "expandedKeys": []
