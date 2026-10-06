@@ -4519,12 +4519,12 @@
     "scroll": 21.128433200686995,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 0
+        "line": 18,
+        "ch": 4
       },
       "to": {
-        "line": 11,
-        "ch": 0
+        "line": 18,
+        "ch": 4
       }
     },
     "expandedKeys": []
@@ -4623,6 +4623,20 @@
       "to": {
         "line": 10,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "9 Obsidian/Unique Notes/2026-04-27, 1-54 pm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 22,
+        "ch": 305
+      },
+      "to": {
+        "line": 22,
+        "ch": 305
       }
     },
     "expandedKeys": []
