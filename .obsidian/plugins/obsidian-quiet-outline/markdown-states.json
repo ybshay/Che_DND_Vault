@@ -4715,12 +4715,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 24,
-        "ch": 13
+        "line": 28,
+        "ch": 19
       },
       "to": {
-        "line": 24,
-        "ch": 13
+        "line": 28,
+        "ch": 19
       }
     },
     "expandedKeys": []
