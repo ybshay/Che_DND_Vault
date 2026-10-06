@@ -4632,11 +4632,11 @@
     "cursor": {
       "from": {
         "line": 13,
-        "ch": 19
+        "ch": 28
       },
       "to": {
         "line": 13,
-        "ch": 19
+        "ch": 28
       }
     },
     "expandedKeys": []
@@ -4712,15 +4712,15 @@
     "expandedKeys": []
   },
   "1 Dark Ones/11 Player Characters/11.1 Nyvara Keris/11.1 Lore.md": {
-    "scroll": 20.076514658056272,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 34,
-        "ch": 3
+        "line": 35,
+        "ch": 0
       },
       "to": {
-        "line": 34,
-        "ch": 3
+        "line": 35,
+        "ch": 0
       }
     },
     "expandedKeys": []
