@@ -4520,11 +4520,11 @@
     "cursor": {
       "from": {
         "line": 18,
-        "ch": 4
+        "ch": 71
       },
       "to": {
         "line": 18,
-        "ch": 4
+        "ch": 71
       }
     },
     "expandedKeys": []
@@ -4637,6 +4637,48 @@
       "to": {
         "line": 22,
         "ch": 305
+      }
+    },
+    "expandedKeys": []
+  },
+  "9 Obsidian/Unique Notes/2026-07-03, 7-25 pm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 71
+      },
+      "to": {
+        "line": 14,
+        "ch": 71
+      }
+    },
+    "expandedKeys": []
+  },
+  "9 Obsidian/Unique Notes/2026-07-07, 4-25 am.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 85
+      },
+      "to": {
+        "line": 14,
+        "ch": 85
+      }
+    },
+    "expandedKeys": []
+  },
+  "9 Obsidian/Unique Notes/2026-07-10, 7-05 pm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 75
+      },
+      "to": {
+        "line": 14,
+        "ch": 75
       }
     },
     "expandedKeys": []
